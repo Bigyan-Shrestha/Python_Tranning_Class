@@ -1,6 +1,5 @@
 #Return True if a String is reversed..................
 
-
 x = ['a','b','c','d','e']
 
 def reversed(x):
